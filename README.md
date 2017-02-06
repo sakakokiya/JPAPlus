@@ -1,0 +1,5 @@
+# JPAPlus
+轻量级spring-jpa，
+用Mybatis分离Sql方式，
+再次封装hibernate实现接口自动声明，
+兼顾Mybatis的灵活和Hibernate的简便兼容spring－boot，只需要加入JPAPlusConfig，采用fel表达式引擎，实现Mybatis与Hibernate之间无痕迁移
